@@ -1,0 +1,19 @@
+#summary One-sentence summary of this page.
+
+= Introduction =
+Rap3D is a simple but useful 3D engine.
+
+VERY EASY to use!!!
+
+For DirectX 9. 
+
+
+= What Rap3d can do?=
+
+  * 1.Display 3d models
+
+  * 2.Bill Board,Sprite,Animation..
+
+  * 3.Music playing
+
+  * 4.Draw text on screen 
